@@ -1,4 +1,4 @@
-package com.lesliehao.javaBase;
+package com.lesliehao.javabase;
 
 import org.junit.Test;
 
